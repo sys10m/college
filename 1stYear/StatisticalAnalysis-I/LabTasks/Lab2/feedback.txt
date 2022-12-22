@@ -1,0 +1,8 @@
+Mark 10/10
+
+* 2 marks for adding in the new code that records and prints result for players who randomly stays/switches - 2/2 
+
+* 8 marks for correct/adequate commenting (including the loops and counters) - 8/8 
+
+
+Excellent work, well done!

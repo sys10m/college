@@ -1,0 +1,9 @@
+Mark 9/10
+
+Feedback to Learner
+
+Thoughtful analysis of sampling, data characteristics, choice of distribution and sample size estimate. Well done!
+
+Consider including a statement of conclusion re hypothesis test "we do not have evidence to conclude the mean is different from the median" or vice verse.
+
+Consider mentioning the fact that your sample size estimation is based only on an estimate of SD. Note that CV for t approaches that for Z as sample size increases, so for larger end samples approximating with Z CV is likely appropriate.
